@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>富士山 4 日親子遊｜專屬行程攻略</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff9f2;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #ffbfa3, #ffd28c);
+      color: #fff;
+      padding: 16px 18px 12px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
+    header h1 {
+      margin: 4px 0;
+      font-size: 1.2rem;
+    }
+    header p {
+      margin: 0;
+      font-size: 0.85rem;
+    }
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    nav a {
+      font-size: 0.8rem;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.2);
+      color: #fff;
+      text-decoration: none;
+      border: 1px solid rgba(255,255,255,0.5);
+    }
+    main {
+      padding: 12px 14px 24px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .day-block {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 12px 12px 8px;
+      margin-bottom: 14px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+      border: 1px solid #ffe3c8;
+    }
+    .day-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 6px;
+    }
+    .day-header h2 {
+      font-size: 1rem;
+      margin: 0;
+    }
+    .day-header span {
+      font-size: 0.8rem;
+      color: #999;
+    }
+    .timeline-item {
+      margin: 8px 0;
+      padding-left: 8px;
+      border-left: 2px dashed #ffd28c;
+    }
+    .time {
+      font-weight: 600;
+      font-size: 0.85rem;
+      color: #d87026;
+    }
+    .label {
+      font-weight: 600;
+      margin-left: 4px;
+      font-size: 0.9rem;
+    }
+    .tag {
+      display: inline-block;
+      font-size: 0.72rem;
+      padding: 1px 6px;
+      border-radius: 999px;
+      background: #fff4e4;
+      color: #b95c25;
+      margin-left: 4px;
+    }
+    .detail {
+      font-size: 0.82rem;
+      margin-top: 2px;
+    }
+    .detail a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    .detail a:hover {
+      text-decoration: underline;
+    }
+    .food {
+      margin-top: 3px;
+      font-size: 0.8rem;
+    }
+    .badge {
+      font-size: 0.72rem;
+      color: #e57b1c;
+      padding: 0 5px;
+      border-radius: 6px;
+      background: #fff1d9;
+      margin-right: 4px;
+    }
+    .note {
+      font-size: 0.75rem;
+      color: #777;
+      margin-top: 3px;
+    }
+    .section-title {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-top: 6px;
+      margin-bottom: 2px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.75rem;
+      color: #aaa;
+      padding: 12px;
+    }
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 4px;
+    }
+    .chip {
+      font-size: 0.72rem;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: #f4f4f4;
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>🗻 富士山 4 日親子周遊攻略</h1>
+  <p>以 Hotel Fujitroiigate 為基地的超完整行程</p>
+  <nav>
+    <a href="#day1">Day1 天空鳥居</a>
+    <a href="#day2">Day2 纜車＋五合目</a>
+    <a href="#day3">Day3 富士急樂園</a>
+    <a href="#day4">Day4 新倉山＋返程</a>
+    <a href="#plan-b">🌧️ 天氣備案</a>
+  </nav>
+</header>
+
+<main>
+
+  <!-- 住宿資訊 -->
+  <section class="day-block" id="hotel">
+    <div class="day-header">
+      <h2>🏨 旅宿基地：Hotel Fujitroiigate</h2>
+    </div>
+    <div class="detail">
+      ・地點：步行約 3 分鐘到
+      <a href="https://www.google.com/maps/search/?api=1&query=Fujisan+Station+富士山駅" target="_blank">富士山站</a>，旁邊是溫馨商店街，適合晚間散步與採買。  
+      ・飯店：支援行李寄放，適合用作 Day1 抵達與 Day4 退房後的行李中樞（前後兩天都能空手跑景點）。[web:1]
+    </div>
+  </section>
+
+  <!-- Day 1 -->
+  <section class="day-block" id="day1">
+    <div class="day-header">
+      <h2>📅 Day 1｜觀光特急 ➜ 天空鳥居＋大石公園</h2>
+      <span>10/21（週三）周遊券 Day1</span>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">09:30–11:13</span><span class="label">🚆 富士回遊 15 號 新宿 → 富士山站</span><span class="tag">周遊券免費指定席</span></div>
+      <div class="detail">
+        新宿站上車，一路直達
+        <a href="https://www.google.com/maps/search/?api=1&query=Fujisan+Station+富士山駅" target="_blank">富士山站</a>，建議提前一個月在 JR 官網預約指定席以確保全家能同排就座。
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 🍱</span>若怕孩子餓，可在新宿站先買便當、三明治或甜點上車慢慢吃。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">11:15–11:30</span><span class="label">🏨 Hotel Fujitroiigate 寄放行李</span></div>
+      <div class="detail">
+        從富士山站步行約 3 分鐘抵達
+        <a href="https://www.google.com/maps/search/?api=1&query=Hotel+FUJi+TORiiGATE+富士吉田" target="_blank">Hotel Fujitroiigate</a>，先辦理行李寄存，輕裝上山拍照最舒服。[web:1]
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">11:30–12:30</span><span class="label">🍜 玉喜屋 Tamakitei 吉田烏龍麵</span></div>
+      <div class="detail">
+        步行約 8 分鐘抵達
+        <a href="https://www.google.com/maps/search/?api=1&query=玉喜亭+吉田うどん+富士吉田" target="_blank">玉喜屋（玉喜亭）</a>。[web:28]
+        必點嚼勁十足的吉田烏龍麵，搭配馬肉與高麗菜，作為下午登山與散步的能量補給。
+      </div>
+      <div class="food">
+        <span class="badge">必吃理由</span>吉田烏龍麵以「超 Q 硬度」著稱，配上濃郁醬汁與在地馬肉，是山梨縣的代表鄉土味。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">12:30–14:15</span><span class="label">🏛️ 絕景 1：天空鳥居（河口淺間神社遙拜所）</span></div>
+      <div class="detail">
+        從麵店門口用 GO App 叫計程車直上山腰，車程約 20 分鐘，車資約 3,000 日圓。目標地搜尋：
+        <a href="https://www.google.com/maps/search/?api=1&query=河口浅間神社+遥拝所" target="_blank">河口淺間神社 遙拜所（天空鳥居）</a>。[web:2][web:5][web:11]
+        排隊拍「紅色鳥居框住富士山」經典照後，全家沿著林道輕鬆步行約 15 分鐘下山。
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 🍡</span>山下河口淺間神社周邊有小販賣和菓子、茶飲，可買杯熱茶與烤糰子邊走邊吃。  
+      </div>
+      <div class="note">小提醒：進入遙拜所通常需投 100 日圓協力金，自備零錢會更方便。[web:5][web:11]</div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">14:30–16:30</span><span class="label">🏞️ 絕景 2：大石公園 掃帚草花海</span></div>
+      <div class="detail">
+        在神社山腳再叫一輛的士前往
+        <a href="https://www.google.com/maps/search/?api=1&query=大石公園+河口湖" target="_blank">大石公園</a>，車程約 8 分鐘，約 1,200 日圓。[web:3][web:6]
+        10 月的掃帚草會從綠轉紅，與河口湖與富士山同框，午後順光拍照最美。[web:6][web:12]
+      </div>
+      <div class="food">
+        <span class="badge">必吃理由 🍦</span>在
+        <a href="https://www.google.com/maps/search/?api=1&query=河口湖自然生活館" target="_blank">河口湖自然生活館</a> 買「白桃／藍莓雙色霜淇淋」，搭配湖景與紅色波波草，是孩子們的幸福畫面。[web:3][web:9]
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 ☕</span>公園周邊咖啡館多，可找一間面湖座位的咖啡店，點杯手沖或甜點，讓腳與相機電池一起充電。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">17:00 之後</span><span class="label">🚌 紅線周遊巴士＋超市晚餐大採購</span></div>
+      <div class="detail">
+        於公園前搭
+        <a href="https://www.google.com/maps/search/?api=1&query=河口湖+周遊巴士+紅線" target="_blank">周遊巴士紅線</a>（Suica 自費）返回富士山站一帶。[web:37]
+        前往 Q-STA 地下超市或
+        <a href="https://www.google.com/maps/search/?api=1&query=OGINO+富士吉田" target="_blank">OGINO 超市</a> 大採購麝香葡萄、黑毛和牛燒肉片、刺身與熟食，帶回房間享用家庭大餐。
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 🍇</span>秋季的麝香葡萄香氣濃、甜度高，非常適合作為小旅行的限定水果；也可順手買布丁、和果子當宵夜。
+      </div>
+    </div>
+  </section>
+
+  <!-- Day 2 -->
+  <section class="day-block" id="day2">
+    <div class="day-header">
+      <h2>📅 Day 2｜晨間纜車＋遊船＋五合目</h2>
+      <span>10/22（週四）周遊券 Day2</span>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">08:51–08:57</span><span class="label">🚆 富士山站 → 河口湖站</span></div>
+      <div class="detail">
+        搭乘普通列車到
+        <a href="https://www.google.com/maps/search/?api=1&query=河口湖駅" target="_blank">河口湖站</a>，備妥周遊券與交通卡，一天都圍繞河口湖活動。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">08:45–10:45</span><span class="label">🚡 天上山公園纜車＋高空鞦韆</span></div>
+      <div class="detail">
+        步行前往
+        <a href="https://www.google.com/maps/search/?api=1&query=河口湖富士山全景纜車" target="_blank">天上山公園纜車（河口湖富士山全景纜車）</a>，約 09:15 抵達山頂，完美避開 10 點之後的旅行團人潮。[web:7][web:32]
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 🍡</span>山頂「狸貓茶屋」的現烤醬油糰子外酥內 Q，邊看富士山邊吃最有味道。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">10:45–11:45</span><span class="label">⛴️ 河口湖遊覽船（湖上富士）</span></div>
+      <div class="detail">
+        纜車下山後，直接走到對面的
+        <a href="https://www.google.com/maps/search/?api=1&query=河口湖+遊覽船" target="_blank">河口湖遊覽船碼頭</a>，憑周遊券享購票優惠。20 分鐘航程，晴天時可在湖面上欣賞無遮蔽富士山倒影。[web:12]
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 ☕</span>碼頭周邊有湖畔咖啡館，可在登船前後喝杯拿鐵或熱可可，讓孩子暖暖身體。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">12:15–13:15</span><span class="label">🍲 ほうとう不動 河口湖站前店</span></div>
+      <div class="detail">
+        從碼頭散步回河口湖站正對面，即是白色建築的
+        <a href="https://www.google.com/maps/search/?api=1&query=ほうとう不動+河口湖駅前店" target="_blank">ほうとう不動 河口湖站前店</a>。[web:17][web:20][web:23]
+        招牌巨型鐵鍋「不動餺飥」，南瓜味噌湯頭配上手擀粗麵，暖胃又有在地感。
+      </div>
+      <div class="food">
+        <span class="badge">必吃理由</span>ほうとう是山梨縣家常料理，湯頭濃郁、份量足，適合一早走纜車＋遊船後，全家一起分食。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">13:50–17:05</span><span class="label">🚌 富士山五合目 探索（海拔 2,305m）</span></div>
+      <div class="detail">
+        於河口湖站 7 號月台購買來回巴士票，搭 13:50 班次前往
+        <a href="https://www.google.com/maps/search/?api=1&query=富士山+五合目+富士斯バルライン五合目" target="_blank">富士山五合目</a>，約 14:40 抵達；回程搭 16:10 巴士，17:05 抵達富士山站。
+      </div>
+      <div class="detail">
+        五合目有小木屋與
+        <a href="https://www.google.com/maps/search/?api=1&query=小御嶽神社+富士山" target="_blank">小御嶽神社</a>，可以近距離欣賞雪頂富士山與遠眺雲海。
+      </div>
+      <div class="note">【保暖提醒】山上約 5°C，務必讓孩子在下巴士前穿上羽絨衣、帽子與手套，避免著涼。</div>
+      <div class="food">
+        <span class="badge">美食追擊 ☕</span>五合目商店有熱可可、玉米濃湯與暖呼呼餐點，可當作小點心兼避風處。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">18:30 之後</span><span class="label">🍶 晚餐：居酒屋 烏天狗 Utegu</span></div>
+      <div class="detail">
+        從飯店步行約 5 分鐘可達
+        <a href="https://www.google.com/maps/search/?api=1&query=居酒屋+烏天狗+富士吉田" target="_blank">居酒屋 烏天狗</a>，是在地家庭常去的溫馨居酒屋。
+      </div>
+      <div class="food">
+        <span class="badge">必吃理由</span>現烤雞肉串、炸雞塊、日式炒麵與小菜豐富，份量足、價格實惠，大人可以小酌，孩子有很多下飯選擇。
+      </div>
+    </div>
+  </section>
+
+  <!-- Day 3 -->
+  <section class="day-block" id="day3">
+    <div class="day-header">
+      <h2>📅 Day 3｜富士急樂園 Free Pass 大狂歡</h2>
+      <span>10/23（週五）周遊券 Day3</span>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">08:51–08:54</span><span class="label">🚆 富士山站 → 富士急樂園站</span></div>
+      <div class="detail">
+        搭乘電車 3 分鐘即可抵達
+        <a href="https://www.google.com/maps/search/?api=1&query=富士急ハイランド" target="_blank">富士急樂園站／富士急樂園</a>，憑 Pass 免費搭乘。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">08:50–17:00</span><span class="label">🎢 富士急樂園 一日瘋玩</span></div>
+      <div class="detail">
+        富士急樂園入園本身免費，爸媽不玩雲霄飛車也能陪孩子拍照與逛街，為 11、13 歲孩子購買一日 Free Pass，主攻高飛車、FUJIYAMA 等世界紀錄級雲霄飛車與火影忍者主題區。
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 🍟</span>樂園內有多種主題小吃（薯條、吉拿棒、霜淇淋、漢堡），建議中午隨孩子玩到哪裡，就近選擇人潮較少的店用餐。
+      </div>
+      <div class="note">小撇步：先玩熱門雲霄飛車與室外設施，下午人潮變多時再改玩室內設施與主題商店。</div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">18:00 之後</span><span class="label">🥩 晚餐：燒肉 富士家 或 周邊定食</span></div>
+      <div class="detail">
+        憑 Pass 免費搭電車 1 站回富士山站，步行至
+        <a href="https://www.google.com/maps/search/?api=1&query=焼肉+富士家+富士吉田" target="_blank">燒肉 富士家</a> 或就近選擇高評價定食屋，大口吃烤牛肉與白飯，犒賞孩子一整天的勇敢挑戰。
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 🍺</span>若想輕鬆一點，也可外帶超市熟食與啤酒回飯店邊聊天邊吃，讓孩子早點洗澡睡覺養足體力。
+      </div>
+    </div>
+  </section>
+
+  <!-- Day 4 -->
+  <section class="day-block" id="day4">
+    <div class="day-header">
+      <h2>📅 Day 4｜新倉山淺間公園＋土產採購＋特急返東京</h2>
+      <span>10/24（週六）周遊券過期，自費日</span>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">09:00</span><span class="label">🧳 退房＋行李續寄</span></div>
+      <div class="detail">
+        在 Hotel Fujitroiigate 退房後，將大行李繼續免費寄放在前台，只帶隨身小包出門。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">09:24–09:27</span><span class="label">🚆 富士山站 → 下吉田站</span></div>
+      <div class="detail">
+        自費刷 Suica 搭電車至
+        <a href="https://www.google.com/maps/search/?api=1&query=下吉田駅" target="_blank">下吉田站</a>，約 3 分鐘，車資約 310 日圓。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">09:30–11:30</span><span class="label">🏯 新倉山淺間公園 明信片大片</span></div>
+      <div class="detail">
+        從車站步行約 10–15 分鐘到
+        <a href="https://www.google.com/maps/search/?api=1&query=新倉山浅間公園" target="_blank">新倉山淺間公園</a>，挑戰 398 階樓梯登頂，在展望台拍下「紅色五重塔＋冠雪富士山＋秋色樹林」的經典美景。[web:33][web:36][web:39]
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 ☕</span>公園周邊有小咖啡店與和菓子店，可下山後買一杯咖啡、幾顆和菓子當獎勵。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">11:40–12:40</span><span class="label">🍜 下吉田 麵許皆傳（肉天烏龍麵）</span></div>
+      <div class="detail">
+        從山下步行約 8 分鐘抵達
+        <a href="https://www.google.com/maps/search/?api=1&query=麺許皆伝+富士吉田" target="_blank">麵許皆傳</a>，被譽為「日本第一硬」吉田烏龍麵的高分名店，每天只營業 3 小時，非常人氣。[web:18][web:24]
+      </div>
+      <div class="food">
+        <span class="badge">必吃理由</span>巨量酥脆炸天婦羅搭配紮實烏龍麵，對發育中的孩子來說是完美的能量補給。
+      </div>
+      <div class="note">建議提早到店門口排隊，熱門時段炸物、限定配料可能會提前售完。[web:24]</div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">13:00–13:30</span><span class="label">🚆 回富士山站取行李</span></div>
+      <div class="detail">
+        搭電車回到富士山站，步行回飯店領回所有大行李箱，準備前往河口湖站做最後土產採購。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">13:50–15:50</span><span class="label">🛍️ 河口湖站終極土產大採購</span></div>
+      <div class="detail">
+        帶著行李搭乘電車約 6 分鐘至
+        <a href="https://www.google.com/maps/search/?api=1&query=河口湖駅" target="_blank">河口湖站</a>，先把大行李鎖進車站置物櫃或對面寄存處，再輕裝在周邊街區血拼。
+      </div>
+      <div class="food">
+        <span class="badge">美食追擊 🎁</span>必買
+        <a href="https://www.google.com/maps/search/?api=1&query=Fujiyama+Cookie" target="_blank">Fujiyama Cookie</a> 富士山造型餅乾、各式限定零食與當地酒類，當作送親友與孩子同學的伴手禮最討喜。
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div><span class="time">16:03–17:59</span><span class="label">🚆 富士回遊 44 號 河口湖站 → JR 新宿站</span></div>
+      <div class="detail">
+        領回置物櫃行李後，搭乘 16:03 自
+        <a href="https://www.google.com/maps/search/?api=1&query=河口湖駅" target="_blank">河口湖站</a> 出發的特急富士回遊 44 號，車上全家一路睡回
+        <a href="https://www.google.com/maps/search/?api=1&query=新宿駅" target="_blank">新宿站</a>，為四天三夜富士山親子旅畫下完美句點。
+      </div>
+    </div>
+  </section>
+
+  <!-- Plan B -->
+  <section class="day-block" id="plan-b">
+    <div class="day-header">
+      <h2>🌧️ 終極彈性天氣備案</h2>
+    </div>
+    <div class="detail">
+      若 Day1 下午遇到大霧或下雨，看不到富士山：
+    </div>
+    <ul class="detail">
+      >將 Day1 下午「天空鳥居＋大石公園」與 Day3 下午「富士急樂園部分時間」對調。</li>
+      >富士急樂園有不少室內設施與賣店，下小雨仍可玩；把珍貴的計程車預算留給天氣最好、視野最清晰的一天。</li>
+    </ul>
+  </section>
+
+</main>
+
+<footer>
+  富士山親子周遊專屬攻略｜可依實際預約情況微調時間與路線。
+</footer>
+
+</body>
+</html>
